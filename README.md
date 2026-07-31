@@ -158,18 +158,7 @@ npm run dev
 
 # Build for production
 npm run build
-```
 
----
-
-## 🧩 Browser Extension Setup
-
-1. Open **Google Chrome**
-2. Navigate to `chrome://extensions`
-3. Enable **Developer Mode** (top-right toggle)
-4. Click **Load Unpacked**
-5. Select the `src/extension` folder from this repository
-6. The PasswordShield AI icon will appear in your toolbar 🎉
 
 ---
 
