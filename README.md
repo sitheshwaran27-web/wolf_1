@@ -240,6 +240,3 @@ npm run build
 - 🔑 Role-Based Access Control (RBAC)
 
 ---
-
-## 👥 Team
-ider giving it a star! ⭐**
